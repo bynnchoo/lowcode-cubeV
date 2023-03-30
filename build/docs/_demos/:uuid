@@ -16,10 +16,10 @@
     </style>
     <link
       rel="stylesheet"
-      href="/lowcode-chart-material@0.1.0/build/docs/umi.css"
+      href="/lowcode-chart-material@0.1.1/build/docs/umi.css"
     />
     <script>
-      window.routerBase = "/lowcode-chart-material@0.1.0/build/docs/";
+      window.routerBase = "/lowcode-chart-material@0.1.1/build/docs/";
     </script>
     <script>
       //! umi version: 3.5.38
@@ -42,6 +42,6 @@
   <body>
     <div id="root"></div>
 
-    <script src="/lowcode-chart-material@0.1.0/build/docs/umi.js"></script>
+    <script src="/lowcode-chart-material@0.1.1/build/docs/umi.js"></script>
   </body>
 </html>
