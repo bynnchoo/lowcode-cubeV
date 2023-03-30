@@ -1,3 +1,5 @@
 miniapp-preview/
+src/
+node_modules/
 .idea/
 .vscode/
